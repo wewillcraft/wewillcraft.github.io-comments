@@ -1,2 +1,3 @@
 # wewillcraft.github.io-comments
-Utterances comments for the wewillcraft.github.io repository.
+
+[utteranc.es](https://utteranc.es) comments for the [wewillcraft.github.io repository](https://github.com/wewillcraft/wewillcraft.github.io).
